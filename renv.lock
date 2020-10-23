@@ -270,15 +270,15 @@
     },
     "rgeobon": {
       "Package": "rgeobon",
-      "Version": "0.3.3",
+      "Version": "0.3.4",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteRepo": "rgeobon",
       "RemoteUsername": "vlucet",
       "RemoteRef": "HEAD",
-      "RemoteSha": "543f4e258ceccf73c603c84a22e3fcccc884c912",
-      "Hash": "cc36c69c1ba7c1196206f31ca2509ab2"
+      "RemoteSha": "494dc7306b3eb9c84c3f6488948889b0adb1e245",
+      "Hash": "b9642c91b5c47fe074cdb7d46cac6171"
     },
     "rlang": {
       "Package": "rlang",
